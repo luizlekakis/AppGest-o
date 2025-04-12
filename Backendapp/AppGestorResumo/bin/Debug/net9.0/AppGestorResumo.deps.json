@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AppGestorResumo/1.0.0": {
+        "runtime": {
+          "AppGestorResumo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppGestorResumo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
