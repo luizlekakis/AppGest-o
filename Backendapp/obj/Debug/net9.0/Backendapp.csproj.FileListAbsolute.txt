@@ -1,0 +1,4 @@
+C:\Users\Josimar.ti\Desktop\Backendapp\obj\Debug\net9.0\Backendapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josimar.ti\Desktop\Backendapp\obj\Debug\net9.0\Backendapp.AssemblyInfoInputs.cache
+C:\Users\Josimar.ti\Desktop\Backendapp\obj\Debug\net9.0\Backendapp.AssemblyInfo.cs
+C:\Users\Josimar.ti\Desktop\Backendapp\obj\Debug\net9.0\Backendapp.csproj.CoreCompileInputs.cache
